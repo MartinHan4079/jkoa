@@ -10,9 +10,15 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "axios": "^0.20.0",
+    "form-data": "^3.0.0",
+    "fs": "^0.0.1-security",
     "koa": "^2.8.1",
+    "koa-body": "^4.2.0",
     "koa-bodyparser": "^4.2.1",
     "koa-cors": "0.0.16",
-    "koa-router": "^7.4.0"
+    "koa-router": "^7.4.0",
+    "path": "^0.12.7",
+    "qs": "^6.9.4"
   }
 }
